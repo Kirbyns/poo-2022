@@ -1,4 +1,6 @@
 <?php
+
+/* Aula 03 de POO baseada em php */
 interface User {
 
     public function seLogar();
