@@ -1,0 +1,32 @@
+ A aula consiste em treinar e pensar com orientar a objet (conceito)
+
+
+
+ Estrutura de objetos
+  ____________
+ | USUARIO    |
+ |____________|
+ |  email     |
+ |  nome      |
+ |  id        | 
+ |  senha     |
+ |----------  |
+ |cadastra()  |
+ |update()    |
+ |delete()    |
+ |getUsuario()|
+
+  ____________
+ | SESSAO     |
+ |____________|
+ |id          |
+ |id_usuario  |
+ |dispositivo |
+ |Localizacao |
+ |ult.atualiza|
+ |------------|
+ |login();    |
+ |destruir(); |
+ |logout();   |
+ |atualizar();|
+
